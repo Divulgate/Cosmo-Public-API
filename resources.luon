@@ -1,0 +1,10 @@
+{
+	"id1" = {
+		"type" = "raw",
+		"resource" = "https://raw.githubusercontent.com/Divulgate/Cosmo-Public-API/refs/heads/models/id1.rbxm" -- only trusted sources so no one can hotswap, this allows for .png extensions, and others.
+	},
+	"id2" = {
+		"type" = "roblox",
+		"resource" = "rbxassetid://1234567890"
+	}
+}
